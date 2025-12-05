@@ -1,0 +1,31 @@
+#resultado1 {
+    font-size: 30px;   /* tamaño grande */
+    font-weight: bold; /* negrita */
+    color: red;        /* opcional */
+    margin-top: 20px;
+}
+
+
+#resultado2 {
+    font-size: 30px;   /* tamaño grande */
+    font-weight: bold; /* negrita */
+    color: red;        /* opcional */
+    margin-top: 20px;
+}
+
+
+
+#resultado3 {
+    font-size: 30px;   /* tamaño grande */
+    font-weight: bold; /* negrita */
+    color: red;        /* opcional */
+    margin-top: 20px;
+}
+
+
+#correcto {
+    font-size: 30px;   /* tamaño grande */
+    font-weight: bold; /* negrita */
+    color: green;        /* opcional */
+    margin-top: 20px;
+}
